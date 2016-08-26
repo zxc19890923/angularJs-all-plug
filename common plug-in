@@ -1,0 +1,6 @@
+1. 可嵌套的路由  ui.router           https://github.com/angular-ui/ui-router
+2. 分页插件         ui.bootstrap      https://github.com/angular-ui/bootstrap
+3. 富文本编辑器  angularTrix       https://github.com/sachinchoolur/angular-trix?utm_source=next.36kr.com
+4. 表单验证插件  w5c.validator    http://blog.ngnice.com/angular-w5c-validator/example/index.html
+5. 上传文件         ngFileUpload    http://angular-file-upload.appspot.com
+6. md5加密         angular-md5     https://www.npmjs.com/package/angular-md5
